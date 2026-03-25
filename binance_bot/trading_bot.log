@@ -1,0 +1,12 @@
+2026-03-25 16:26:53,979 - client - ERROR - Connection Failed: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2026-03-25 16:27:30,212 - client - ERROR - Connection Failed: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2026-03-25 16:29:58,429 - client - ERROR - Connection Failed: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2026-03-25 16:30:17,775 - client - ERROR - Connection Failed: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2026-03-25 16:32:42,846 - client - INFO - Successfully connected to Binance Futures Testnet
+2026-03-25 16:32:43,073 - __main__ - ERROR - Order Failed: APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+2026-03-25 16:35:15,245 - client - INFO - Successfully connected to Binance Futures Testnet
+2026-03-25 16:35:15,402 - __main__ - INFO - Order Success! ID: 12991742902, Status: NEW
+2026-03-25 16:36:16,424 - client - INFO - Successfully connected to Binance Futures Testnet
+2026-03-25 16:36:16,683 - __main__ - INFO - Order Success! ID: 12991744501, Status: NEW
+2026-03-25 16:37:52,884 - client - INFO - Successfully connected to Binance Futures Testnet
+2026-03-25 16:37:53,148 - __main__ - INFO - Order Success! ID: 12991746248, Status: NEW
